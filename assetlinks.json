@@ -1,0 +1,8 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "io.github.egsmusic.kibir",
+    "sha256_cert_fingerprints": ["03:3B:1E:3C:9A:18:09:92:6F:27:77:AB:31:87:0C:AC:F1:21:AD:C7:C3:00:1E:97:30:32:41:F6:90:29:2D:13"]
+  }
+}]
